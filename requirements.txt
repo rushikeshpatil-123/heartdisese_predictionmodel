@@ -7,4 +7,5 @@ researchpy
 ipykernel
 mlflow
 optuna
+imblearn
 dvc
