@@ -1,8 +1,15 @@
 # heartdisese_predictionmodel
-
+# ---
 Objective:
+1.
+2.
+
+# ---
 
 Type of Analysis: MultiVariate\Classification Model
+
+# ---
+Model
 
 Data Information
 
